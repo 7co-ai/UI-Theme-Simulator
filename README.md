@@ -37,7 +37,7 @@
 GitHub Pagesを有効化すると、以下のような形式でアクセスできます。
 
 ```
-https://<ユーザー名>.github.io/<リポジトリ名>/ui-theme-simulator.html
+https://<ユーザー名>.github.io/<リポジトリ名>/
 ```
 
 有効化手順: リポジトリの `Settings` → `Pages` → Branch を `main` / フォルダを `/(root)` にして保存。数分でURLが発行されます。
